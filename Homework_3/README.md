@@ -1,13 +1,13 @@
 # Homework  
 
 1. Implement a binary search algorithm for an array in iterative and recursive versions. 
-2. Implement strlen (str); a function that gets the string C and returns the number of characters in the string (up to \0): 
-3. Implement a function that circles the string C (char*). 
-4. Implement the to_ver_case (string) function, which gets a string (char*), formats and returns the same string where all letters are uppercase. 
+2. Implement strlen(str); a function that gets the string C and returns the number of characters in the string (up to \0): 
+3. Implement a function, that circles the string C (char*). 
+4. Implement the to_upper_case (string) function, which gets a string (char*), formats and returns the same string where all letters are uppercase. 
 5. [ * * ] Implement a calculator program that uses std::map and function indicators. The exponents of the function refer to the function performing the corresponding arithmetic operation. 
-6. Execute evil * Rabat (evil* s1, evil*s2); a function that receives two strings of C and connects (connects) strings together, saving in the first argument. 
-7. Execute strset (char* s, char ch); a function that replaces all characters of a given string s with the character ch. 
-8. [ * ] Execute strmov (char* s, int n); a function that cycles a given string s to the right n times. For example, strmove (”hello", 2); will move ”hello“ 2 positions to the right and get ”lohel".  
+6. Implement char* strcat(char* s1, char* s2); function, that receives two strings of C and connects (connects) strings together, saving in the first argument. 
+7. Implement strset(char* s, char ch); a function that replaces all characters of a given string s with the character ch. 
+8. [ * ] Implement strmove(char* s, int n); function, that cycles a given string s to the right n times. For example, strmove (”hello", 2); will move ”hello“ 2 positions to the right and get ”lohel".  
 
 # Տնային հանձնարարություններ  
 
