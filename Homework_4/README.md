@@ -9,14 +9,14 @@
   d. Print the array in reverse order without changing the order of the elements in the original array.  
   e. Arrange the elements of the original array in reverse order in the same array.  
   f. Convert all lowercase letters to uppercase in the resulting mass and print on the screen.  
-10. Write a program to concatenate arrays of two sizes into a third array. In other words, get an array that will contain all the elements of the original two arrays.  
-11. Write a program that finds and prints the second smallest element of an array. That is, the given element will be smaller than all elements of the array, except for two (itself and the smallest);  
-12. Write a program that finds and prints the third largest element of an array. That is, the given element will be greater than all the elements of the array, except for three (from itself the first largest and the first largest);  
-13. Write a program that prints the values of all even numbers in an integer array.  
-14. Write a program that prints the number of odd numbers in an integer array.  
-15. Write a program that fills all the odd numbers in an integer array into another array. Print the obtained mass on the screen.  
-16. Write a program that will place all even elements of an integer array into the same array, from the beginning of the array and the odd ones from the end.  
-17. Write a program that will check whether two arrays of the same size are the same or not. In other words, do the values with all matching indices match or not?  
+4. Write a program to concatenate arrays of two sizes into a third array. In other words, get an array that will contain all the elements of the original two arrays.  
+5. Write a program that finds and prints the second smallest element of an array. That is, the given element will be smaller than all elements of the array, except for two (itself and the smallest);  
+6. Write a program that finds and prints the third largest element of an array. That is, the given element will be greater than all the elements of the array, except for three (from itself the first largest and the first largest);  
+7. Write a program that prints the values of all even numbers in an integer array.  
+8. Write a program that prints the number of odd numbers in an integer array.  
+9. Write a program that fills all the odd numbers in an integer array into another array. Print the obtained mass on the screen.  
+10. Write a program that will place all even elements of an integer array into the same array, from the beginning of the array and the odd ones from the end.  
+11. Write a program that will check whether two arrays of the same size are the same or not. In other words, do the values with all matching indices match or not?  
 
 # Տնային հանձնարարություններ  
 
@@ -29,11 +29,11 @@
   d. Տպեք զանգվածը հակառակ հերթականությամբ, առանց սկզբնական զանգվածի էլեմենտների հերթականությունը փոխելու:  
   e. Սկզբնական զանգվածի էլեմնտները դասավորեք հակառակ հերթականությամբ նույն զանգվածի մեջ։  
   f. Ստացված զանգվածի մեջ բոլոր փոքրատառերը սարքել մեծատառ և տպել էկրանին։  
-10. Գրեք ծրագիր, որը երկու չափսի զանգվածներ կմիավորի երրորդ զանգվածի մեջ: Այսինքն ստանալ զանգված, որը կպարունակի սկզբնական երկու զանգվածների բոլոր էլեմենտները։  
-11. Գրեք ծրագիր, որը գտնում և տպում է զանգվածի երկրորդ ամենափոքր տարրը: Այսինքն՝ տվյալ տարրը փոքր է լինելու զանգվածի բոլոր էլեմենտներից, բացառությամբ երկուսից (ինքը իրենից և փոքրագույնից). 
-12. Գրեք ծրագիր, որը գտնում և տպում է զանգվածի երրորդ ամենամեծ տարրը: Այսինքն՝ տվյալ տարրը մեծ է լինելու զանգվածի բոլոր էլեմենտներից, բացառությամբ՝ երեքից (ինքը իրենից երլկրորդ մեծագույնից և առաջին մեծագույնից). 
-13. Գրեք ծրագիր, որը տպում է ամբողջ թվային զանգվածի բոլոր զույգ թվերի արժեքները:  
-14. Գրեք ծրագիր, որը տպում է ամբողջ թվային զանգվածի կենտ թվերի քանակը:  
-15. Գրեք ծրագիր, որը ամբողջ թվային զանգվածի բոլոր կենտ թվերը լցնում է մեկ այլ զանգվածի մեջ: Ստացված զանգվածը տպել էկրանին։  
-16. Գրեք ծրագիր, որը ամբողջ թվային զանգվածի բոլոր զույգ էլեմենտները  նույն զանգվածի մեջ՝ կտեղավորի զանգվածի սկզբից, իսկ կենտերը վերջից:  
-17. Գրիր ծրագիր, որը կստուգի երկու նույն չափսի զանգվածները նույնն են, թե ոչ։ Այսինքն արդյոք բոլոր համապատասխանող ինդեքսներով արժեքները համընկնում են թե ոչ։  
+4. Գրեք ծրագիր, որը երկու չափսի զանգվածներ կմիավորի երրորդ զանգվածի մեջ: Այսինքն ստանալ զանգված, որը կպարունակի սկզբնական երկու զանգվածների բոլոր էլեմենտները։  
+5. Գրեք ծրագիր, որը գտնում և տպում է զանգվածի երկրորդ ամենափոքր տարրը: Այսինքն՝ տվյալ տարրը փոքր է լինելու զանգվածի բոլոր էլեմենտներից, բացառությամբ երկուսից (ինքը իրենից և փոքրագույնից). 
+6. Գրեք ծրագիր, որը գտնում և տպում է զանգվածի երրորդ ամենամեծ տարրը: Այսինքն՝ տվյալ տարրը մեծ է լինելու զանգվածի բոլոր էլեմենտներից, բացառությամբ՝ երեքից (ինքը իրենից երլկրորդ մեծագույնից և առաջին մեծագույնից). 
+7. Գրեք ծրագիր, որը տպում է ամբողջ թվային զանգվածի բոլոր զույգ թվերի արժեքները:  
+8. Գրեք ծրագիր, որը տպում է ամբողջ թվային զանգվածի կենտ թվերի քանակը:  
+9. Գրեք ծրագիր, որը ամբողջ թվային զանգվածի բոլոր կենտ թվերը լցնում է մեկ այլ զանգվածի մեջ: Ստացված զանգվածը տպել էկրանին։  
+10. Գրեք ծրագիր, որը ամբողջ թվային զանգվածի բոլոր զույգ էլեմենտները  նույն զանգվածի մեջ՝ կտեղավորի զանգվածի սկզբից, իսկ կենտերը վերջից:  
+11. Գրիր ծրագիր, որը կստուգի երկու նույն չափսի զանգվածները նույնն են, թե ոչ։ Այսինքն արդյոք բոլոր համապատասխանող ինդեքսներով արժեքները համընկնում են թե ոչ։  
